@@ -1,8 +1,8 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
+![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
 
@@ -17,13 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR code preview Desktop](./images/Screenshot-Desktop.png)
-![QR code preview Mobile](./images/Screenshot-Mobile.png)
+![Blog preview card preview Desktop](./assets/images/Screenshot-Desktop.png)
+![Blog preview card preview Mobile](./assets/images/Screenshot-Mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hary300/QR-code)
-- Live Site URL: [Add live site URL here](https://hary300.github.io/QR-code/)
+- Solution URL: [Add solution URL here](https://github.com/Hary300/Blog-preview-card)
+- Live Site URL: [Add live site URL here](https://hary300.github.io/Blog-preview-card/)
 
 ## My process
 

@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'figtre', sans-serif;
+  background-color: hsl(47, 88%, 63%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* the big pict */
+.container {
+  border: solid 1px black;
+  padding: 12px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 12px;
+  box-shadow: 6px 6px 0px black;
+  width: 270px;
+  margin-bottom: 12px;
+}
+
+.pict1 {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 12px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.learning {
+  font-size: 10px;
+  background-color: hsl(47, 88%, 63%);
+  padding: 5px 10px;
+  border-radius: 3px;
+  width: fit-content;
+  font-weight: 800;
+}
+
+.published {
+  font-size: 10px;
+}
+
+.HTML {
+  font-size: 17px;
+}
+
+.HTML:hover {
+  color: hsl(47, 88%, 63%);
+  cursor: pointer;
+}
+
+.these {
+  font-size: 12px;
+  color: hsl(228, 12%, 48%);
+}
+
+.author-container {
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  margin-top: 12px;
+}
+
+.pict2 {
+  width: 25px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.Greg {
+  font-size: 10px;
+  font-weight: 800;
+  align-self: center;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
